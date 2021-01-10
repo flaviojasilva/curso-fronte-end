@@ -1,0 +1,54 @@
+
+.container{
+	width: 850px;
+	padding: 20px;
+	margin: 10px;
+	justify-content: center;
+	display: flexbox;
+}
+
+.experiencias{
+	box-sizing: content-box;
+	width: 300px;
+	height: 310px;
+	padding: 30px;
+	margin: 30px;
+	border: 1px solid black;
+} 
+
+.social{
+	box-sizing: content-box;
+	width: 300px;
+	height: 310px;
+	padding: 30px;
+	margin: 30px;
+	border: 1px solid black;
+}
+
+.habilidades{
+	box-sizing: content-box;
+	width: 300px;
+	height: 200px;
+	padding: 30px;
+	margin: 30px;
+	border: 1px solid black;
+}
+
+.sobre-mim{
+	box-sizing: content-box;
+	margin-top: 3rem;
+	width: 300px;
+	height: 200px;
+	padding: 30px;
+	margin: 30px;
+	border: 1px solid black;
+}
+
+.educacao {
+	box-sizing: content-box;
+	width: 300px;
+	height: 150px;
+	padding: 30px;
+	margin: 30px;
+	border: 1px solid black;
+}
